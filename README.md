@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 676 Contributions in the Year 2021
+> 🏆 677 Contributions in the Year 2021
  > 
 > 📦 12.2 kB Used in GitHub's Storage 
  > 
@@ -31,6 +31,48 @@ Here are some ideas to get you started:
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+🌆 Daytime    52 commits     ██████████░░░░░░░░░░░░░░░   41.94% 
+🌃 Evening    56 commits     ███████████░░░░░░░░░░░░░░   45.16% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Tuesday      29 commits     █████░░░░░░░░░░░░░░░░░░░░   23.39% 
+Wednesday    48 commits     █████████░░░░░░░░░░░░░░░░   38.71% 
+Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
