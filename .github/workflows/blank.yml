@@ -27,13 +27,5 @@ jobs:
           # GitHub access token with Repo scope
           GH_TOKEN:  ${{ github.token }}
           # Your Wakatime API Key
-          WAKATIME_API_KEY: 
-          # Your GitHub repository
-          REPOSITORY: # optional, default is ${{ github.repository }}
-          # Displays the week number and days in Readme as title
-          SHOW_TITLE: # optional
-          # Add a commit message of your choice
-          COMMIT_MESSAGE: # optional, default is Updated the Graph with new Metrics
-          # Add the progress blocks of your choice
-          BLOCKS: # optional, default is ░▒▓█
+          WAKATIME_API_KEY: ${{secrets.WAKATIME_API_TOKEN}}
       
