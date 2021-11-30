@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 677 Contributions in the Year 2021
+> 🏆 678 Contributions in the Year 2021
  > 
 > 📦 12.2 kB Used in GitHub's Storage 
  > 
@@ -65,9 +65,6 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 
@@ -84,10 +81,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/MatthiasDruwe/MatthiasDruwe/master/charts/bar_graph.png) 
 
 
  Last Updated on 30/11/2021
