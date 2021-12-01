@@ -7,7 +7,7 @@
 - 📫 How to reach me: <a href="https://dev.to/batjas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="batjas" height="30" width="40" /></a>
 <a href="https://twitter.com/batjas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batjas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthiasdruwé" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthiasdruwé" height="30" width="40" /></a>
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I ❤ jazz 🎷
 
 
 <!--START_SECTION:waka-->
