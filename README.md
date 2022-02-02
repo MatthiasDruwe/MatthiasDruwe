@@ -11,13 +11,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2023%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 219 Contributions in the Year 2022
+> 🏆 220 Contributions in the Year 2022
  > 
 > 📦 34.9 kB Used in GitHub's Storage 
  > 
@@ -86,5 +84,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2022 07:24:35 UTC
+ Last Updated on 02/02/2022 07:22:11 UTC
 <!--END_SECTION:waka-->
