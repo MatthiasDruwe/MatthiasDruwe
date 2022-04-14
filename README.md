@@ -56,13 +56,13 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-SQL                      51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +79,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2022 07:27:31 UTC
+ Last Updated on 14/04/2022 07:26:06 UTC
 <!--END_SECTION:waka-->
