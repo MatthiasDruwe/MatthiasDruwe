@@ -56,13 +56,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +79,5 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2022 07:26:38 UTC
+ Last Updated on 16/07/2022 07:24:00 UTC
 <!--END_SECTION:waka-->
