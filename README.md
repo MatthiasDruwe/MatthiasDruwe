@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229%20Thousand%20lines%20of%20code-blue)
 
@@ -56,13 +56,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.22% 
+XML                      4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   39.43% 
+Groovy                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+GitIgnore file           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
+Properties               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           11 hrs 45 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -79,5 +83,5 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 07:26:05 UTC
+ Last Updated on 19/08/2022 07:27:50 UTC
 <!--END_SECTION:waka-->
