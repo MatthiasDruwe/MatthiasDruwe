@@ -56,14 +56,13 @@ Sunday       26 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Kotlin                   17 mins             ████████████████████████░   97.06% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +79,5 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 07:22:20 UTC
+ Last Updated on 07/01/2023 07:22:28 UTC
 <!--END_SECTION:waka-->
