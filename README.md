@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -54,13 +54,16 @@ Sunday                   45 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   28 mins             █████████████████████████   98.85 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -76,5 +79,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2023 07:20:19 UTC
+ Last Updated on 04/08/2023 07:19:08 UTC
 <!--END_SECTION:waka-->
