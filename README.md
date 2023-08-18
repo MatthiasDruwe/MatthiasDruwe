@@ -54,14 +54,13 @@ Sunday                   45 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Kotlin                   1 hr 2 mins         █████████████████████████   98.53 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -77,5 +76,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2023 07:18:38 UTC
+ Last Updated on 18/08/2023 07:18:28 UTC
 <!--END_SECTION:waka-->
