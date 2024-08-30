@@ -52,15 +52,13 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Text                     1 min               ███████████░░░░░░░░░░░░░░   43.05 % 
-PHP                      1 min               ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Gettext Catalog          1 min               ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -76,5 +74,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2024 07:27:07 UTC
+ Last Updated on 30/08/2024 07:26:49 UTC
 <!--END_SECTION:waka-->
