@@ -52,14 +52,13 @@ Sunday                   89 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-CSS                      23 mins             █████████████████░░░░░░░░   67.84 % 
-JavaScript               11 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -75,5 +74,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 07:23:36 UTC
+ Last Updated on 29/12/2024 07:23:53 UTC
 <!--END_SECTION:waka-->
