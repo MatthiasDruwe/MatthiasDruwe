@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -52,13 +52,18 @@ Sunday                   89 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       24 mins             ████████████░░░░░░░░░░░░░   46.83 % 
+Binary                   18 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
+SQL                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+XAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            45 mins             ██████████████████████░░░   88.72 % 
+DataGrip                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -74,5 +79,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 07:26:55 UTC
+ Last Updated on 09/01/2025 07:27:44 UTC
 <!--END_SECTION:waka-->
