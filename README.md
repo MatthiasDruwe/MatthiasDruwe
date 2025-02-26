@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -52,13 +52,17 @@ Sunday                   97 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   14 mins             ██████████░░░░░░░░░░░░░░░   38.43 % 
+HTTP Request             10 mins             ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Java Properties          8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Properties               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -74,5 +78,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 07:23:29 UTC
+ Last Updated on 26/02/2025 07:23:39 UTC
 <!--END_SECTION:waka-->
