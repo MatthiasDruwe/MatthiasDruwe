@@ -52,13 +52,13 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+DataGrip                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -74,5 +74,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2025 07:30:20 UTC
+ Last Updated on 24/04/2025 07:26:19 UTC
 <!--END_SECTION:waka-->
