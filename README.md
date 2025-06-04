@@ -52,14 +52,13 @@ Sunday                   56 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      1 hr 23 mins        █████████████████████████   100.00 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -75,5 +74,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2025 07:27:54 UTC
+ Last Updated on 04/06/2025 07:27:31 UTC
 <!--END_SECTION:waka-->
