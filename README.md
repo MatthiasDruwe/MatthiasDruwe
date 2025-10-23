@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C530%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
 
@@ -52,20 +52,20 @@ Sunday                   55 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-JavaScript               4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
-PHP                      2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-HTTP Request             1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+PHP                      4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+JavaScript               3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+HTTP Request             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 7 mins        ████████████████░░░░░░░░░   62.59 % 
-PhpStorm                 2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-DataGrip                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+WebStorm                 5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
+PhpStorm                 5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.18 % 
+VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+DataGrip                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +81,5 @@ PHP                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2025 07:26:22 UTC
+ Last Updated on 23/10/2025 07:27:34 UTC
 <!--END_SECTION:waka-->
