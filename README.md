@@ -52,20 +52,20 @@ Sunday                   55 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      10 hrs 10 mins      ██████████████████░░░░░░░   73.86 % 
-.env file                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-TypeScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+PHP                      8 hrs 49 mins       ███████████████████░░░░░░   77.01 % 
+.env file                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Log                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-PhpStorm                 12 hrs 42 mins      ███████████████████████░░   92.27 % 
-VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-DataGrip                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+PhpStorm                 11 hrs 21 mins      █████████████████████████   99.14 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Windows                  10 hrs 50 mins      ████████████████████░░░░░   78.71 % 
-Mac                      2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Windows                  8 hrs 31 mins       ███████████████████░░░░░░   74.39 % 
+Mac                      2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +81,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2025 07:26:10 UTC
+ Last Updated on 29/10/2025 07:27:41 UTC
 <!--END_SECTION:waka-->
