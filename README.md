@@ -52,19 +52,19 @@ Sunday                   55 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      11 hrs 16 mins      ████████████████░░░░░░░░░   62.44 % 
-JavaScript               3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-.env file                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+PHP                      8 hrs 46 mins       ███████████████░░░░░░░░░░   59.87 % 
+JavaScript               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Gettext Catalog          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-PhpStorm                 14 hrs 17 mins      ████████████████████░░░░░   79.08 % 
-WebStorm                 3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+PhpStorm                 10 hrs 53 mins      ███████████████████░░░░░░   74.23 % 
+WebStorm                 3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  18 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +80,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2025 07:27:18 UTC
+ Last Updated on 12/11/2025 07:27:03 UTC
 <!--END_SECTION:waka-->
