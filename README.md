@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C584%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C586%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
 
@@ -52,19 +52,19 @@ Sunday                   55 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      15 hrs              ██████████████████░░░░░░░   70.61 % 
-C#                       3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Gettext Catalog          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-HTTP                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+PHP                      15 hrs              ████████████████░░░░░░░░░   63.11 % 
+C#                       5 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+HTTP                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Gettext Catalog          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-PhpStorm                 16 hrs 57 mins      ████████████████████░░░░░   79.76 % 
-VS Code                  4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-DataGrip                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+PhpStorm                 16 hrs 57 mins      ██████████████████░░░░░░░   71.29 % 
+VS Code                  6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+DataGrip                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  21 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +80,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 07:26:14 UTC
+ Last Updated on 17/11/2025 07:28:07 UTC
 <!--END_SECTION:waka-->
