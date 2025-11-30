@@ -52,21 +52,21 @@ Sunday                   78 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      20 hrs 25 mins      ████████████████████████░   94.01 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Log                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+PHP                      18 hrs 55 mins      ███████████████████████░░   93.57 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Log                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-PhpStorm                 20 hrs 53 mins      ████████████████████████░   96.22 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+PhpStorm                 19 hrs 24 mins      ████████████████████████░   95.94 % 
+VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      11 hrs 17 mins      █████████████░░░░░░░░░░░░   51.96 % 
-Windows                  10 hrs 26 mins      ████████████░░░░░░░░░░░░░   48.04 % 
+Mac                      11 hrs 17 mins      ██████████████░░░░░░░░░░░   55.78 % 
+Windows                  8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,5 +82,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 07:25:36 UTC
+ Last Updated on 30/11/2025 07:24:41 UTC
 <!--END_SECTION:waka-->
