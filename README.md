@@ -52,21 +52,20 @@ Sunday                   78 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      18 hrs 55 mins      ███████████████████████░░   93.57 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Log                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+PHP                      15 hrs 2 mins       ███████████████████████░░   93.73 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Log                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-PhpStorm                 19 hrs 24 mins      ████████████████████████░   95.94 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+PhpStorm                 15 hrs 19 mins      ████████████████████████░   95.51 % 
+VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      11 hrs 17 mins      ██████████████░░░░░░░░░░░   55.78 % 
-Windows                  8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
+Mac                      11 hrs 17 mins      ██████████████████░░░░░░░   70.33 % 
+Windows                  4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,5 +81,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2025 07:24:41 UTC
+ Last Updated on 01/12/2025 07:31:01 UTC
 <!--END_SECTION:waka-->
