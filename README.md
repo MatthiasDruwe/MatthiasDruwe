@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C638%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
@@ -52,18 +52,18 @@ Sunday                   78 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      16 hrs 12 mins      ████████████████████████░   96.84 % 
-Gettext Catalog          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Locale                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+PHP                      18 hrs 37 mins      ████████████████████████░   96.45 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Gettext Catalog          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Locale                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-PhpStorm                 16 hrs 43 mins      █████████████████████████   100.00 % 
+PhpStorm                 19 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 13 mins      █████████████████░░░░░░░░   67.05 % 
-Windows                  5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Mac                      11 hrs 13 mins      ███████████████░░░░░░░░░░   58.09 % 
+Windows                  8 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.91 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +79,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 07:25:31 UTC
+ Last Updated on 07/12/2025 07:26:56 UTC
 <!--END_SECTION:waka-->
