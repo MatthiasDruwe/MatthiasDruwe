@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C645%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
@@ -28,18 +28,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1055 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-🌆 Daytime                2535 commits        ██████████████░░░░░░░░░░░   55.79 % 
-🌃 Evening                911 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+🌞 Morning                1055 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌆 Daytime                2537 commits        ██████████████░░░░░░░░░░░   55.81 % 
+🌃 Evening                911 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
 🌙 Night                  43 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   614 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  902 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Wednesday                980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Thursday                 973 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Monday                   616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  902 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Wednesday                980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Thursday                 973 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
 Friday                   874 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Saturday                 123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 Sunday                   78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
@@ -52,18 +52,18 @@ Sunday                   78 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      21 hrs 54 mins      ████████████████████████░   96.96 % 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Gettext Catalog          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Locale                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PHP                      24 hrs              ████████████████████████░   97.45 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Gettext Catalog          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Locale                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 22 hrs 35 mins      █████████████████████████   100.00 % 
+PhpStorm                 24 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████░░░░░░░░░░░░   50.35 % 
-Mac                      11 hrs 13 mins      ████████████░░░░░░░░░░░░░   49.65 % 
+Windows                  17 hrs 13 mins      █████████████████░░░░░░░░   69.93 % 
+Mac                      7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +79,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 07:32:31 UTC
+ Last Updated on 09/12/2025 07:30:05 UTC
 <!--END_SECTION:waka-->
