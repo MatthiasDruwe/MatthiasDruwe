@@ -52,18 +52,18 @@ Sunday                   78 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      25 hrs 24 mins      ████████████████████████░   97.46 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Locale                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PHP                      22 hrs 58 mins      ████████████████████████░   97.85 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Locale                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PhpStorm                 26 hrs 3 mins       █████████████████████████   100.00 % 
+PhpStorm                 23 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 21 mins      ████████████████████░░░░░   81.98 % 
-Mac                      4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Windows                  18 hrs 47 mins      ████████████████████░░░░░   80.00 % 
+Mac                      4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +79,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 07:29:52 UTC
+ Last Updated on 14/12/2025 07:26:24 UTC
 <!--END_SECTION:waka-->
