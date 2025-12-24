@@ -52,15 +52,13 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      59 mins             █████████████████████░░░░   84.80 % 
-Log                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -76,5 +74,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 07:30:44 UTC
+ Last Updated on 24/12/2025 07:30:43 UTC
 <!--END_SECTION:waka-->
