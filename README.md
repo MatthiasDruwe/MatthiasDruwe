@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C683%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C683%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,13 +52,16 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      25 mins             ███████████████████████░░   90.25 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Log                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -74,5 +77,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2026 07:33:11 UTC
+ Last Updated on 07/01/2026 07:32:22 UTC
 <!--END_SECTION:waka-->
