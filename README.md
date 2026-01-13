@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C691%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,16 +52,16 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      7 hrs 51 mins       ███████████████████████░░   90.59 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Log                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+PHP                      9 hrs 19 mins       ██████████████████████░░░   89.84 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Log                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PhpStorm                 8 hrs 40 mins       █████████████████████████   100.00 % 
+PhpStorm                 10 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -77,5 +77,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 07:34:41 UTC
+ Last Updated on 13/01/2026 07:32:06 UTC
 <!--END_SECTION:waka-->
