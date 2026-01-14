@@ -11,37 +11,37 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 356.2 kB Used in GitHub's Storage 
+> 📦 229.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 50 Private Repositories 
+> 🔑 48 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-🌆 Daytime                1037 commits        ████████████████░░░░░░░░░   62.81 % 
-🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+🌞 Morning                256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌆 Daytime                1041 commits        ████████████████░░░░░░░░░   62.90 % 
+🌃 Evening                344 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Wednesday                371 commits         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Friday                   322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Tuesday                  366 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Wednesday                371 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Friday                   322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 Sunday                   24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
@@ -52,16 +52,17 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      9 hrs 19 mins       ██████████████████████░░░   89.84 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Log                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PHP                      12 hrs 14 mins      █████████████████████░░░░   82.52 % 
+Gettext Catalog          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+.env file                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-PhpStorm                 10 hrs 23 mins      █████████████████████████   100.00 % 
+PhpStorm                 14 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -77,5 +78,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2026 07:32:06 UTC
+ Last Updated on 14/01/2026 07:33:44 UTC
 <!--END_SECTION:waka-->
