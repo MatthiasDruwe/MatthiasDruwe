@@ -28,20 +28,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-🌆 Daytime                1041 commits        ████████████████░░░░░░░░░   62.79 % 
-🌃 Evening                347 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+🌞 Morning                256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌆 Daytime                1038 commits        ████████████████░░░░░░░░░   62.76 % 
+🌃 Evening                346 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  366 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Wednesday                371 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Thursday                 243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Friday                   322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Tuesday                  365 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Wednesday                371 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 Sunday                   24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
@@ -52,33 +52,33 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      8 hrs 18 mins       ████████████████████░░░░░   79.78 % 
-Gettext Catalog          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-.env file                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+PHP                      4 hrs 48 mins       █████████████████░░░░░░░░   69.56 % 
+Gettext Catalog          1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+.env file                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-PhpStorm                 10 hrs 7 mins       ████████████████████████░   97.31 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+PhpStorm                 6 hrs 37 mins       ████████████████████████░   95.94 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       ████████████████████████░   97.31 % 
-Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Windows                  6 hrs 37 mins       ████████████████████████░   95.94 % 
+Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-C#                       28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C#                       28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 
 
 
 
- Last Updated on 16/01/2026 07:32:11 UTC
+ Last Updated on 17/01/2026 07:26:27 UTC
 <!--END_SECTION:waka-->
