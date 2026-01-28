@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C701%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C701%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,19 +52,18 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               27 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Mermaid                  19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-C#                       15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-HTTP                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+PHP                      37 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
+TypeScript               27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Mermaid                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+HTTP                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        ████████████████████████░   94.26 % 
-PhpStorm                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+VS Code                  1 hr 8 mins         ███████████████░░░░░░░░░░   61.13 % 
+PhpStorm                 43 mins             ██████████░░░░░░░░░░░░░░░   38.87 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████░░░░   82.13 % 
-Mac                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +79,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2026 07:35:29 UTC
+ Last Updated on 28/01/2026 07:35:12 UTC
 <!--END_SECTION:waka-->
