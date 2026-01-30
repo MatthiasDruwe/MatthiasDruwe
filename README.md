@@ -52,18 +52,17 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      37 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
-TypeScript               27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Mermaid                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-HTTP                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+PHP                      37 mins             ██████████████████████░░░   86.13 % 
+Gettext Catalog          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Locale                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ███████████████░░░░░░░░░░   61.13 % 
-PhpStorm                 43 mins             ██████████░░░░░░░░░░░░░░░   38.87 % 
+PhpStorm                 43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +78,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2026 07:45:43 UTC
+ Last Updated on 30/01/2026 07:45:45 UTC
 <!--END_SECTION:waka-->
