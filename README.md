@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C701%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,17 +52,18 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      37 mins             ██████████████████████░░░   86.13 % 
-Gettext Catalog          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Locale                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+PHP                      37 mins             ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+TypeScript               27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+JavaScript               25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 🔥 Editors: 
-PhpStorm                 43 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████░░░░░░░░   68.64 % 
+PhpStorm                 43 mins             ████████░░░░░░░░░░░░░░░░░   31.36 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -78,5 +79,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 07:45:45 UTC
+ Last Updated on 31/01/2026 07:36:11 UTC
 <!--END_SECTION:waka-->
