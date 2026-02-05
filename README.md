@@ -68,15 +68,15 @@ Windows                  1 hr 35 mins        ███████████�
 **I Mostly Code in Kotlin** 
 
 ```text
-C#                       28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+C#                       28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 04/02/2026 07:50:24 UTC
+ Last Updated on 05/02/2026 07:54:34 UTC
 <!--END_SECTION:waka-->
