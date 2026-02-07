@@ -52,17 +52,13 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-JavaScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-JSON                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Mermaid                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -78,5 +74,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 07:52:42 UTC
+ Last Updated on 07/02/2026 07:37:56 UTC
 <!--END_SECTION:waka-->
