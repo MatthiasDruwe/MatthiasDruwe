@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C764%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.18%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,19 +52,19 @@ Sunday                   22 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       9 hrs 50 mins       ██████████████████░░░░░░░   71.72 % 
-CSHTML                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-XML                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+C#                       10 hrs 52 mins      ██████████████████░░░░░░░   70.56 % 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+XML                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+CSHTML                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       ██████████████████████░░░   88.57 % 
-Obsidian                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Visual Studio            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+VS Code                  13 hrs 12 mins      █████████████████████░░░░   85.70 % 
+Obsidian                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Visual Studio            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Windows                  13 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +80,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 08:06:39 UTC
+ Last Updated on 04/04/2026 07:53:55 UTC
 <!--END_SECTION:waka-->
