@@ -52,19 +52,19 @@ Sunday                   22 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       10 hrs 18 mins      ███████████████████░░░░░░   76.63 % 
-Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Microsoft Visual Studio S16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+C#                       7 hrs 38 mins       ███████████████████░░░░░░   76.54 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+XML                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Microsoft Visual Studio S16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 35 mins      ██████████████████████░░░   86.13 % 
-Obsidian                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Visual Studio            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+VS Code                  8 hrs 36 mins       ██████████████████████░░░   86.31 % 
+Obsidian                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Visual Studio            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Windows                  13 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +80,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2026 08:18:54 UTC
+ Last Updated on 08/04/2026 08:17:58 UTC
 <!--END_SECTION:waka-->
