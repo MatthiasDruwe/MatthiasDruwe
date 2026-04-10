@@ -17,7 +17,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 229.7 kB Used in GitHub's Storage 
+> 📦 815.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,19 +52,19 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       5 hrs 23 mins       ███████████████████░░░░░░   74.42 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-XML                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Microsoft Visual Studio S16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+C#                       1 hr 39 mins        ████████████████░░░░░░░░░   63.34 % 
+Markdown                 44 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Microsoft Visual Studio S3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       ██████████████████████░░░   87.60 % 
-Obsidian                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Visual Studio            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+VS Code                  1 hr 51 mins        ██████████████████░░░░░░░   70.80 % 
+Obsidian                 42 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Visual Studio            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +80,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 08:24:20 UTC
+ Last Updated on 10/04/2026 08:24:06 UTC
 <!--END_SECTION:waka-->
