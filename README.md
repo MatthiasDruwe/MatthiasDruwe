@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,13 +52,20 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 58 mins        █████████████████████░░░░   82.38 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 21 mins       ████████████████████████░   97.92 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -74,5 +81,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 09:05:12 UTC
+ Last Updated on 14/04/2026 08:30:17 UTC
 <!--END_SECTION:waka-->
