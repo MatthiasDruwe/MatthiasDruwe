@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C789%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,20 +52,20 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       18 hrs 59 mins      █████████████████████░░░░   85.24 % 
-Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-XML                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C#                       21 hrs 6 mins       ████████████████████░░░░░   80.66 % 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 34 mins      ███████████████████████░░   92.36 % 
-Visual Studio            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Obsidian                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+VS Code                  23 hrs 29 mins      ██████████████████████░░░   89.81 % 
+Visual Studio            2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Obsidian                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Unknown Editor           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  22 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +81,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2026 09:11:16 UTC
+ Last Updated on 21/04/2026 08:56:39 UTC
 <!--END_SECTION:waka-->
