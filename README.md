@@ -52,19 +52,15 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       3 hrs 43 mins       ███████████████████░░░░░░   76.23 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+C#                       56 mins             ███████████████████████░░   92.96 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████░░░░   84.07 % 
-Visual Studio            37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Obsidian                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +76,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 09:20:14 UTC
+ Last Updated on 01/05/2026 09:05:49 UTC
 <!--END_SECTION:waka-->
