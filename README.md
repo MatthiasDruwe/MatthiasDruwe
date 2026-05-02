@@ -52,15 +52,13 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       56 mins             ███████████████████████░░   92.96 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -76,5 +74,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2026 09:05:49 UTC
+ Last Updated on 02/05/2026 08:24:26 UTC
 <!--END_SECTION:waka-->
