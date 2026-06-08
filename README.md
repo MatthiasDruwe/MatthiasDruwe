@@ -25,6 +25,42 @@
  > 
 > 🔑 50 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+🌆 Daytime                849 commits         ███████████████░░░░░░░░░░   61.75 % 
+🌃 Evening                302 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   219 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  326 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Wednesday                294 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Thursday                 166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Friday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Saturday                 75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Sunday                   21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -38,5 +74,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 10:08:36 UTC
+ Last Updated on 08/06/2026 12:03:15 UTC
 <!--END_SECTION:waka-->
