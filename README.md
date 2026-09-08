@@ -11,11 +11,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -30,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                866 commits         ██████████████░░░░░░░░░░░   56.75 % 
-🌃 Evening                429 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+🌞 Morning                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+🌆 Daytime                884 commits         ██████████████░░░░░░░░░░░   54.98 % 
+🌃 Evening                485 commits         ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Tuesday                  352 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Wednesday                335 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Thursday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Friday                   285 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Saturday                 88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Sunday                   22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Tuesday                  365 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Wednesday                360 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Thursday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Friday                   292 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Saturday                 92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Sunday                   22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
@@ -54,13 +54,16 @@ Sunday                   22 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    31 mins             ████████████░░░░░░░░░░░░░   46.44 % 
+YAML                     22 mins             ████████░░░░░░░░░░░░░░░░░   33.19 % 
+SQL                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,5 +85,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 13:25:41 UTC
+ Last Updated on 08/09/2026 12:05:49 UTC
 <!--END_SECTION:waka-->
