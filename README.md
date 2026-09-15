@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2037%20mins-blue?style=flat)
 
@@ -54,16 +54,13 @@ Sunday                   22 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Other                    31 mins             ████████████░░░░░░░░░░░░░   46.44 % 
-YAML                     22 mins             ████████░░░░░░░░░░░░░░░░░   33.19 % 
-SQL                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Bash                     4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +82,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 13:48:51 UTC
+ Last Updated on 15/09/2026 12:35:25 UTC
 <!--END_SECTION:waka-->
