@@ -54,13 +54,13 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Bash                     4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,5 +82,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 13:49:42 UTC
+ Last Updated on 22/09/2026 12:31:06 UTC
 <!--END_SECTION:waka-->
